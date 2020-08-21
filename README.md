@@ -1,0 +1,3 @@
+# tflite-yolov3-tiny-face_detection
+face_detection and Face Attribute classification
+在安卓端实现了人脸检测和人脸属性分类两个任务，调用摄像头来对视频流进行实时处理，你也可以改成只对人脸进行检测。调用相册或摄像头拍照后进行处理的程序，我也搞定了，但如果问我为什么不都集成起来？我只能够告诉你，java和android我不是很熟悉。
